@@ -1,0 +1,15 @@
+# macOS / Windows / Linux
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# 本地临时文件
+*.log
+*.tmp
+node_modules/
